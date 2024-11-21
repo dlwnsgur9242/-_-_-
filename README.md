@@ -8,7 +8,7 @@
 이름: 이준혁
 + 생년월일: 1997-12-15 <br>
 + 연락처: 010-3977-4569 <br>
-+ Github: https://github.com/dlwnsgur9242 <br>
++ Github: https://github.com/dlwnsgur9242 <br><br>
 
 ### 1.2. Education
 나사렛대학교, 2016-03 ~ 2022-02
@@ -23,7 +23,7 @@ ESTsoft Back-end 개발자 부트 캠프 2023.06 ~ 2023.11
 + 유튜브 클론 코딩, AI 글 자동 완성 개인 블로그, 당근 클론 코딩개발 <br><br>
 
 인공지능 융합 인재 양성 과정 2021.11 ~ 2022.04
-+ AI,Python프로그래밍기초,크롤링,Python데이터분석기초수료<br>
++ AI,Python프로그래밍기초,크롤링,Python데이터분석기초수료<br><br>
 
 ### 1.3. Awards
 나사렛대학교 IT학부 학술제 금상 2022.02 <br>
