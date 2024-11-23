@@ -94,17 +94,16 @@ Streamlit으로 WebApp생성하여 사용자와 상호작용하여 해당기능�
 Python, Django를 활용하여 비밀번호 해싱 및 CSRF방지를 구현하였습니다.<br>
 API를 활용하여 소셜 로그인 및 글 작성 시 AI 기반의 자동 완성 기능을 제공하고 있습니다.<br>
 조회순으로 글을 배치하며, 사용자의 키워드에 맞춘 맞춤형 추천글을 제공하여 사용자 경험과 편의성을 극대화한 프로젝트입니다.
-+ 팀 프로젝트
++ 팀 프로젝트(4인)
 + 기여도: 25%
 + 작성언어: Python 
-+ Streamlit
-+ OpenAI Chat Completions API
-+ WeatherAPI
++ Django
++ PostgreSQL
 <br>
 
 ## 3.7. 유튜브 웹 클론코딩 [Link📄](https://github.com/dlwnsgur9242/youtube_clone_Hamtor2)
 Python, Django를 활용하여 비밀번호 해싱 및 CSRF방지를 구현하였습니다. API를 활용하여 소셜 로그인 및 글 작성 시 AI 기반의 자동 완성 기능을 제공하고 있습니다. 조회순으로 글을 배치하며, 사용자의 키워드에 맞춘 맞춤형 추천글을 제공하여 사용자 경험과 편의성을 극대화한 프로젝트입니다.
-+ 팀 프로젝트
++ 팀 프로젝트(4인)
 + 기여도: 40%
 + 작성언어: Python 
 + HTML5
