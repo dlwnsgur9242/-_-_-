@@ -118,3 +118,13 @@ API를 활용하여 소셜 로그인 및 글 작성 시 AI 기반의 자동 완�
 + 작성언어: Java 
 + MariaDB
 + Apache Tomcat
++ 
+<br>
+
+## 4. 학습 중 
+### 4.1. FastAPI [Link📄](https://github.com/dlwnsgur9242/FastAPI)
+
+<br>
+
+
+
