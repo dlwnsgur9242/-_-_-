@@ -42,7 +42,7 @@ ESTsoft Back-end 개발자 부트 캠프 2023.06 ~ 2023.11
 + Django MTV
 <br>
 
-### 3.2. WeatherAI WebApp [Link📄](https://github.com/dlwnsgur9242/WeatherAI)
+### 3.2. 대화형 AI 국내 지역 날씨 정보 제공 WebApp [Link📄](https://github.com/dlwnsgur9242/WeatherAI)
 AI를 활용한 국내 지역별 날씨 제공 서비스(Weather provision service by region in Korea using AI)입니다.
 <br> 
 Streamlit으로 WebApp을 구현하고 사용자의 요청를 대화형으로 응답합니다.
@@ -54,7 +54,7 @@ Streamlit으로 WebApp을 구현하고 사용자의 요청를 대화형으로 �
 + WeatherAPI
 <br>
 
-### 3.3. EmailAI_SMTP WebApp [Link📄](https://github.com/dlwnsgur9242/EmailAI_SMTP)
+### 3.3. 대화형 AI 메일 자동 완성&발송 WebApp [Link📄](https://github.com/dlwnsgur9242/EmailAI_SMTP)
 사용자 요청에 따라 메일을 자동으로 완성하여 보낼 수 있는 WebApp입니다.<br>
 Stremlit으로 WebApp을 구현하고 WebApp상에서 address_book.json(주소록)CRUD를 제공하여 수신자의 주소 정보 관리가 편리하도록 하였습니다.
 + 개인프로젝트
